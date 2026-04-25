@@ -1,2 +1,4 @@
 This is file 1
 change the content of file 1
+
+I have change the file1.txt in bug-fix branch
