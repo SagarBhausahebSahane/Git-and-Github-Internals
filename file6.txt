@@ -1,0 +1,1 @@
+we have created a new file file6.txt for understands the git stash command
